@@ -6,17 +6,18 @@
       "content": "hello adam2 tu admin"
     }
   ],
-  "3": [],
+  "3": [
+    {
+      "id_msg": 1,
+      "from": 4,
+      "content": "heellloo"
+    }
+  ],
   "4": [
     {
       "id_msg": 1,
       "from": 3,
       "content": "hello adam4 tu adam3"
-    },
-    {
-      "id_msg": 2,
-      "from": 3,
-      "content": "hello adam4"
     }
   ],
   "9": [
